@@ -1,10 +1,6 @@
-👋 Olá, eu sou @TheBestOficial
+👋 Olá, somos a @TheBestOficial
 
-👀 Tenho interesse em...
-🌱 Atualmente estou aprendendo...
-💞️ Estou procurando colaborar em...
-📫 Como me contatar...
-<!---
-TheBestOficial/TheBestOficial é um repositório ✨ especial ✨ porque seu arquivo `README.md` (este arquivo) aparece em seu perfil no GitHub.
-Você pode clicar no link Preview para dar uma olhada nas suas alterações.
---->
+👀 Temos interesse em ajudar você a se divertir jogando.
+🌱 Somos uma equipe de desenvolvimento abrangendo diversas áreas da computação, desde softwares até design gráfico.
+💞️ Estamos sempre procurando pessoas que desejam ser ajudadas ou que procuram ajuda. Se você é essa pessoa, está no lugar certo.
+📫 Para entrar em contato conosco, acesse nosso Discord em https://discord.gg/emSNcvcrSg.
